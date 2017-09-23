@@ -1,0 +1,50 @@
+
+#print
+{
+	position:absolute;
+	left:580px;
+	top:100px;
+	font-size: 60px;
+    color:darkblue;
+	
+	 padding-top: 10px;
+    padding-right: 10px;
+	padding-bottom:10px;
+	 padding-left: 10px;
+	
+	
+	
+	/*left:-50px;*/
+	
+	
+}
+#body1 {
+	
+	background-image:url(stop.jpg);
+	position:absolute;
+	
+	background-size:1420px 700px;
+	
+	
+}
+#op {
+	position:relative;
+	left:550px;
+	top:250px;
+	
+	
+}
+#start,#stop,#reset {
+
+
+background-color:teal;
+color:black;
+width:100px;
+height:40px;
+
+
+}	
+#start:hover,#stop:hover,#reset:hover {
+	
+	background-color:green;
+}
